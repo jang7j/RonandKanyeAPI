@@ -1,0 +1,17 @@
+C:\Users\hwait\Desktop\repos\RonandKanyeAPI\RonandKanyeAPI\bin\Debug\net6.0\RonandKanyeAPI.exe
+C:\Users\hwait\Desktop\repos\RonandKanyeAPI\RonandKanyeAPI\bin\Debug\net6.0\RonandKanyeAPI.deps.json
+C:\Users\hwait\Desktop\repos\RonandKanyeAPI\RonandKanyeAPI\bin\Debug\net6.0\RonandKanyeAPI.runtimeconfig.json
+C:\Users\hwait\Desktop\repos\RonandKanyeAPI\RonandKanyeAPI\bin\Debug\net6.0\RonandKanyeAPI.dll
+C:\Users\hwait\Desktop\repos\RonandKanyeAPI\RonandKanyeAPI\bin\Debug\net6.0\RonandKanyeAPI.pdb
+C:\Users\hwait\Desktop\repos\RonandKanyeAPI\RonandKanyeAPI\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\hwait\Desktop\repos\RonandKanyeAPI\RonandKanyeAPI\obj\Debug\net6.0\RonandKanyeAPI.csproj.AssemblyReference.cache
+C:\Users\hwait\Desktop\repos\RonandKanyeAPI\RonandKanyeAPI\obj\Debug\net6.0\RonandKanyeAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hwait\Desktop\repos\RonandKanyeAPI\RonandKanyeAPI\obj\Debug\net6.0\RonandKanyeAPI.AssemblyInfoInputs.cache
+C:\Users\hwait\Desktop\repos\RonandKanyeAPI\RonandKanyeAPI\obj\Debug\net6.0\RonandKanyeAPI.AssemblyInfo.cs
+C:\Users\hwait\Desktop\repos\RonandKanyeAPI\RonandKanyeAPI\obj\Debug\net6.0\RonandKanyeAPI.csproj.CoreCompileInputs.cache
+C:\Users\hwait\Desktop\repos\RonandKanyeAPI\RonandKanyeAPI\obj\Debug\net6.0\RonandKanyeAPI.csproj.CopyComplete
+C:\Users\hwait\Desktop\repos\RonandKanyeAPI\RonandKanyeAPI\obj\Debug\net6.0\RonandKanyeAPI.dll
+C:\Users\hwait\Desktop\repos\RonandKanyeAPI\RonandKanyeAPI\obj\Debug\net6.0\refint\RonandKanyeAPI.dll
+C:\Users\hwait\Desktop\repos\RonandKanyeAPI\RonandKanyeAPI\obj\Debug\net6.0\RonandKanyeAPI.pdb
+C:\Users\hwait\Desktop\repos\RonandKanyeAPI\RonandKanyeAPI\obj\Debug\net6.0\RonandKanyeAPI.genruntimeconfig.cache
+C:\Users\hwait\Desktop\repos\RonandKanyeAPI\RonandKanyeAPI\obj\Debug\net6.0\ref\RonandKanyeAPI.dll

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qQqTwGi4imQiSYT+w1Xb/8xQ/3dzUE6byq88sN2Lsdg+rLzPfJqeV5HtqMkUIsBHtXrjXbVEVB2HAvthm6Mesg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hwait\\Desktop\\repos\\RonandKanyeAPI\\RonandKanyeAPI\\RonandKanyeAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hwait\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
